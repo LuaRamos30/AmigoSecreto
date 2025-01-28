@@ -42,7 +42,7 @@ git clone https://github.com/seu-usuario/Amigo-Secreto.git
 2. Acesse o site para rodar o jogo:
 
 ```bash
-[**Clique aqui para acessar**](https://vercel.app)
+[[**Clique aqui para acessar**](https://vercel.app)](https://amigo-secreto-mu-ruby.vercel.app/)
 ```
 ---
 
