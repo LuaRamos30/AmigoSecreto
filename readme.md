@@ -36,7 +36,7 @@ Para testar o jogo, siga os passos abaixo:
 1. Acesse o repositório do projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/Amigo-Secreto.git
+git clone https://github.com/LuaRamos30/AmigoSecreto.git
  ```
 
 2. Acesse o site para rodar o jogo:
