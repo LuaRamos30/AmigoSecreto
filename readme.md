@@ -41,9 +41,8 @@ git clone https://github.com/seu-usuario/Amigo-Secreto.git
 
 2. Acesse o site para rodar o jogo:
 
-```bash
-echo "[**Clique aqui para acessar o jogo**](https://amigo-secreto-mu-ruby.vercel.app/)"
-```
+[**Clique aqui para acessar o jogo**](https://amigo-secreto-mu-ruby.vercel.app/)
+
 ---
 
 ## 💡 Sobre o Desafio
